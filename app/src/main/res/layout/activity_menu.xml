@@ -22,5 +22,7 @@
         android:background="@android:color/transparent"
         android:drawableLeft="@drawable/student"
         android:textColor="#fff"
-        android:text="Master Mahasiswa"></Button>
+        android:text="Master Mahasiswa"
+        android:id="@+id/tampilMahasiswaButton"
+        ></Button>
 </GridLayout>
